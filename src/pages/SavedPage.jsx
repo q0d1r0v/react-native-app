@@ -1,11 +1,12 @@
 // imports
 import { View, Text, StyleSheet } from 'react-native'
 
-const AboutPage = () => {
+// page
+const SavedPage = () => {
     return (
         <View style={style.container}>
             <Text style={style.text}>
-                This is AboutPage
+                Saved page
             </Text>
         </View>
     )
@@ -13,9 +14,6 @@ const AboutPage = () => {
 
 const style = StyleSheet.create({
     container: {
-        display: 'flex',
-        alignItems: 'center',
-        justifyContent: 'center',
         flex: 1
     },
     text: {
@@ -23,4 +21,4 @@ const style = StyleSheet.create({
     }
 })
 
-export default AboutPage
+export default SavedPage

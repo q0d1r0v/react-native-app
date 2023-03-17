@@ -7,7 +7,7 @@
     "icon": "./assets/app-image-moon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/OYBEK.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
